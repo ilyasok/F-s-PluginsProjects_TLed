@@ -1,4 +1,59 @@
-﻿# F's Plugins New and Next
+## So, what is this? 
+These are open-sourced plugins for After Effects developed by bry-ful (AKA Hiroshi Furuhashi) across 10 years' time. And they are great for what they are designed for. 
+Unfortunaely, Japaneese have tendency to think that the world ends where Japan ends. So they write, design, and code in Japaneese. And if you played a couple of jap games or VNs, you know the drill--use Locale Emulator, and you're fine and dandy.
+
+Doesn't work with After Effects, tho. I haven't seen any attemps to translate it in English, so I'm doing it. 
+
+**I don't change the code.** It's the same plugins, but controllers aren't jibberish (see pic below), and you can make sense out of them. 
+
+![Pasted image 20240823211738](https://github.com/user-attachments/assets/12a299de-bac5-4ffd-ae4e-a089be5c405e)
+
+## So, what got changed?
+
+Overall there are 30 effects that are in need of translation. The list goes as following:
+* CEL
+	* ColorChange
+	* ColorChangeSimple
+	* MainLineRepaint
+	* MainLineRepaint_old
+	* Paint
+	* PaintMultPaint
+	* PixelSelector
+	* SelectColor
+	* SelectedBlur
+* Channel
+	* AlphaFix 
+	* Premultiply
+	* RgbToAlpha
+* Colorize
+	* FillColor
+	* YuvConrol
+* Draw
+	* sputteringCircle
+	* sputtringRect
+	* sputteringSplash
+* Filter 
+	* LineDetection
+	* Mosaic
+	* Scanline
+	* ScreenShakeDir
+	* ScreenShakeMM
+	* VideoGrid
+	* VideoLine
+	* VideoLine2nd
+* Noise
+	* AnimatedNoise
+	* RandomLineNoise
+	* RandomMosaic
+	* RandomMosaic2nd
+	* RandomShift
+
+That is why this fork exists. Nothing more, nothing less.
+
+Below is the original README text.
+***
+
+# F's Plugins New and Next
 Adone After EffectsのEffectsPlugin集のソース一式とWindowsバイナリです。　<b>no supporot MacOS!</b>
 　
 
