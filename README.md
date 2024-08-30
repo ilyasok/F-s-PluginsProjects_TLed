@@ -6,7 +6,7 @@ Doesn't work with After Effects, tho. I haven't seen any attemps to translate it
 
 **I don't change the code.** It's the same plugins, but controllers aren't jibberish (see pic below), and you can make sense out of them. 
 
-![Pasted image 20240823211738](https://github.com/user-attachments/assets/12a299de-bac5-4ffd-ae4e-a089be5c405e)
+![image](https://github.com/user-attachments/assets/9acb497d-b97f-43f2-8192-2e72aa25e466)
 
 ## So, what got changed?
 
